@@ -3,7 +3,7 @@
 
 # 👋 Hola, soy Eder  
 
-🚀 **Desarrollador Fullstack** | React | Next.js | TypeScript | PostgreSQL  
+🚀 **Fullstack developer** | React | Next.js | TypeScript | PostgreSQL  
 
 💡 Dispuesto a crear soluciones digitales, SaaS y sistemas de gestión.  
 🤝 Abierto a cooperar en nuevos proyectos y colaboraciones.  
@@ -33,14 +33,13 @@
 
 ## 🚀 Proyectos destacados
 - 🔗 [Sistema de gestión de alquileres](https://kedevshome.site/) – SASS con Next.js + PostgreSQL y aws.  
-- 🔗 [Plataforma de sublimación](#) – Plataforma sass para sublimadores de todo el mundo, con suscripciones (stripe) google auth, simulación 3d con treeJs y aws.  
+- 🔗 [Plataforma de sublimación](https://nomadas.design/home) – Plataforma sass para sublimadores de todo el mundo, con suscripciones (stripe) google auth, simulación 3d con treeJs y aws.  
 
 ---
 
 ## 🌐 Encuéntrame en:
 - [LinkedIn](https://www.linkedin.com/in/edermiraval/) 
-- [Portafolio](#)  
-- [Twitter](#)  
+
 
 ---
 
