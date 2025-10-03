@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.imgur.com/KaxB1vS.jpeg) <!-- Aquí puedes poner tu propio banner -->
+![Banner](portal-image.png) <!-- Aquí puedes poner tu propio banner -->
 
 # 👋 Hola, soy Eder  
 
